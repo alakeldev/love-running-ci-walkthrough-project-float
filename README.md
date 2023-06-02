@@ -1,7 +1,9 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center"> Love Running Website </h1>
 
-# Welcome to Love Running Website, this website built for learning purpose.
+Welcome to:
 
 ## Home Page
 ## Gallery Page
 ## Sign Up Page
+
+###This website built for learning purpose.
